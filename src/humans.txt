@@ -1,0 +1,14 @@
+/* TEAM */
+    Developer:Marilyn
+
+
+/* THANKS */
+    Lyle： a human
+
+
+
+/* SITE */
+    最后更新: 18年 3月 26天
+    标准： HTML5, CSS3,javascript
+    组件： jQuery, etc.
+    软件：用于自学。
